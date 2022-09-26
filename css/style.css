@@ -21,4 +21,9 @@ h1{
     display: grid;
     justify-content: center;
     margin-bottom: 50px;
+    color: blueviolet;
+}
+
+p{
+    color: red;
 }
